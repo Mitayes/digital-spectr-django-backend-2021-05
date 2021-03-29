@@ -1,5 +1,6 @@
 # Назначение
 Тестовое задание для курса "BACKEND. PYTHON Базовый уровень" у Digital Spectr в мае 2021  
+http://academy.digital-spectr.ru/backend_python_basic
 
 # Информация для запуска
 Разработано на версии Python 3.9.2  
