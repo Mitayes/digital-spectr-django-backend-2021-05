@@ -1,4 +1,5 @@
 '''
+https://github.com/Mitayes/digital-spectr-django-backend-2021-05/blob/main/test1.py
 Разработано на версии Python 3.9.2
 Дополнительные модули:
     random
